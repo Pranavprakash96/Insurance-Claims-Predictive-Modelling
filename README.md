@@ -1,6 +1,5 @@
 # Insurance-Claims-Predictive-Modelling
 
-# Insurance Claims Prediction with GLM
 
 This repository contains code for building a **Generalized Linear Model (GLM)** to predict the probability of claims (`claim_status`) and the claim amount (`claim_amount`) using a dataset of insurance records. The goal is to help in dynamic pricing by modeling customer and vehicle characteristics to predict the likelihood of claims.
 
